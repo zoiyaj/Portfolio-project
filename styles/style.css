@@ -49,3 +49,14 @@ p {
   font-weight: bold;
   font-size: 14px;
 }
+.container{
+    margin: 15px auto;
+}
+.container-2{
+    margin: 15px auto;
+}
+.container-3{
+    margin: 15px auto;
+}
+.images{margin-top: 380px;}
+
