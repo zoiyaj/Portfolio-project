@@ -69,7 +69,7 @@ p {
   max-width: 1000;
 }
 
-.about-section {
+.sub-title {
   font-family: var(--main-font);
   color: #f65282;
   margin: 20px !important;
@@ -140,3 +140,26 @@ p {
   margin: 0 auto;
   margin-top: 200px;
 }
+
+.contact-heading {
+  font-family: var(--main-font);
+  font-style: bold;
+  text-align: center;
+  font-size: 92px;
+  margin-top: 250px;
+  letter-spacing: 10px;
+  margin:300px
+}
+
+.contact {
+  text-align: center;
+}
+.container-contact {
+  margin: 0 auto;
+}
+.contact-icon {
+  margin: 2px;
+}
+
+.contact-p, .email{font-size: 18px;
+line-height: 30px;}
