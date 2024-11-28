@@ -114,11 +114,12 @@ p {
   font-size: 14px;
   margin: 10px;
 }
-.about-main-image{ margin:30px;
-margin-left:200px;
-padding:0px;}
+.about-main-image {
+  margin: 30px;
+  padding: 0px;
+}
 
-.about-images{
-    margin:0 auto;
-    padding:0px;
+.about-images {
+  margin: 0 auto;
+  padding: 0px;
 }
