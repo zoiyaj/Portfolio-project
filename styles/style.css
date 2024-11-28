@@ -166,3 +166,23 @@ p {
   font-size: 18px;
   line-height: 30px;
 }
+footer{
+    margin: 60px 0;
+    background-color: rgb(29, 28, 28);
+}
+footer .email-link{
+    text-decoration: none;
+    color:white;
+    font-size: 24px;
+}
+
+footer .email-link:hover{
+    color:var(--main-font)
+}
+
+footer .social-links a{
+    margin: 0 20px;
+    color: white;
+    padding: 10px;
+    font-size: 24px;
+}
