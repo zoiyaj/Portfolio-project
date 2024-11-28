@@ -137,4 +137,6 @@ p {
 }
 .images {
   max-width: fit-content;
+  margin: auto;
+  margin-top: 200px;
 }
