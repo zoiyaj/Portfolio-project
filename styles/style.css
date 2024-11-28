@@ -123,3 +123,15 @@ p {
   margin: 0 auto;
   padding: 0px;
 }
+.container-gallery img {
+  scale: 200%;
+  margin: 200px;
+}
+.gallery-heading {
+  font-family: var(--main-font);
+  font-style: bold;
+  text-align: center;
+  font-size: 92px;
+  margin-top: 250px;
+  letter-spacing: 10px;
+}
