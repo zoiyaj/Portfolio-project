@@ -135,3 +135,6 @@ p {
   margin-top: 250px;
   letter-spacing: 10px;
 }
+.images {
+  max-width: fit-content;
+}
