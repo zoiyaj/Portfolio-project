@@ -137,6 +137,6 @@ p {
 }
 .gallery-images-container {
   max-width: fit-content;
-  margin: auto;
+  margin: 0 auto;
   margin-top: 200px;
 }
